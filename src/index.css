@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+ 
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+@media (min-width:500px){
+  .d1{
+    margin-top: 470px;
+  }
+
+  
+}
+
+@media (max-width:500px){
+  .hide{
+    display: none;
+  }
+}
+
+
+
